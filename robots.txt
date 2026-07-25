@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tcconstruction-llc.com/sitemap-index.xml
